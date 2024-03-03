@@ -1,8 +1,5 @@
 <h1 align="center">Srabonti Deb</h1>
 <h3 align="center">I'm a passionate deep learning enthusiast and front-end developer hailing from Bangladesh.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=srabontideb&label=Profile%20views&color=0e75b6&style=flat" alt="srabontideb" /> </p>
-
 - I'm currently diving into **Deep Learning models & mechanisms along with mastering open-source machine learning libraries like TensorFlow and PyTorch.**
 
 - All of my projects are available at [https://github.com/Srabontideb](https://github.com/Srabontideb)
@@ -11,7 +8,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/srabontideb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srabontideb2" height="30" width="40" /></a>
+<a href="https://twitter.com/SrabontiDeb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srabontideb2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srabonti deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srabonti deb" height="30" width="40" /></a>
 <a href="https://kaggle.com/srabonti deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srabonti deb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srabonti_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srabonti_deb" height="30" width="40" /></a>
