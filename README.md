@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srabontideb&label=Profile%20views&color=0e75b6&style=flat" alt="srabontideb" /> </p>
 
-- I'm currently diving into **Deep Learning, exploring models & mechanisms, along with mastering open-source machine learning libraries w like TensorFlow and PyTorch.**
+- I'm currently diving into **Deep Learning models & mechanisms along with mastering open-source machine learning libraries like TensorFlow and PyTorch.**
 
 - All of my projects are available at [https://github.com/Srabontideb](https://github.com/Srabontideb)
 
