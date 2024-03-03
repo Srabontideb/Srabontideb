@@ -1,14 +1,14 @@
 
-<h1 align="center">Hi, I'm Srabonti Deb</h1>
+<h1 align="center">Srabonti Deb</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srabontideb&label=Profile%20views&color=0e75b6&style=flat" alt="srabontideb" /> </p>
 
-- 🌱 'm currently diving into **Deep Learning, exploring models & mechanisms, along with mastering open-source machine learning libraries w like TensorFlow and PyTorch.**
+- I'm currently diving into **Deep Learning, exploring models & mechanisms, along with mastering open-source machine learning libraries w like TensorFlow and PyTorch.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srabontideb](https://github.com/Srabontideb)
+- All of my projects are available at [https://github.com/Srabontideb](https://github.com/Srabontideb)
 
-- 📫 How to reach me **srabontideb23@gmail.com**
+- How to reach me **srabontideb23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
