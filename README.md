@@ -1,6 +1,6 @@
 
 <h1 align="center">Srabonti Deb</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I'm a passionate deep learning enthusiast and front-end developer hailing from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srabontideb&label=Profile%20views&color=0e75b6&style=flat" alt="srabontideb" /> </p>
 
@@ -14,10 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/srabontideb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srabontideb2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srabonti deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srabonti deb" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/srabonti deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="srabonti deb" height="30" width="40" /></a>
 <a href="https://kaggle.com/srabonti deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srabonti deb" height="30" width="40" /></a>
-<a href="https://fb.com/srabonti deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srabonti deb" height="30" width="40" /></a>
-<a href="https://instagram.com/srabonti_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srabonti_deb" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/srabonti_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srabonti_deb" height="30" width="40" /></a>
 <a href="https://discord.gg/srabonti2148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srabonti2148" height="30" width="40" /></a>
 </p>
