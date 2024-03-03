@@ -1,7 +1,10 @@
 <h1 align="center">Srabonti Deb</h1>
 <h3 align="left">I'm a passionate deep learning enthusiast and front-end developer hailing from Bangladesh.</h3>
+
 - I'm currently diving into Deep Learning models & mechanisms along with mastering open-source machine learning libraries like TensorFlow and PyTorch.
+  
 - All of my projects are available at [https://github.com/Srabontideb](https://github.com/Srabontideb)
+  
 - How to reach me **srabontideb23@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
