@@ -5,7 +5,7 @@
   
 - All of my projects are available at [https://github.com/Srabontideb](https://github.com/Srabontideb)
   
-- How to reach me **srabontideb23@gmail.com**
+- How to reach me **srabonti.deb.ruet@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
