@@ -19,19 +19,20 @@
 </a>
 
 <a href="https://scholar.google.com/citations?user=L8vd2UkAAAAJ&hl=en" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="30" width="40" style="filter: invert(1);" />
 </a>
 
 <a href="https://www.researchgate.net/profile/Srabonti-Deb?ev=hdr_xprf" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="30" width="40" style="filter: invert(1);" />
 </a>
 
 <a href="https://medium.com/@srabontideb23" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" width="40" style="filter: invert(1);" />
 </a>
 
+<!-- FIXED beecrowd -->
 <a href="https://judge.beecrowd.com/en/profile/511677" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/beecrowd.svg" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/Beecrowd-000?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
 </a>
 
 <a href="https://codeforces.com/profile/Srabonti_deb" target="blank">
