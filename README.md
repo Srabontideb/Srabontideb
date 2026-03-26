@@ -32,7 +32,7 @@
 
 <!-- FIXED beecrowd -->
 <a href="https://judge.beecrowd.com/en/profile/511677" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Beecrowd-000?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="30" width="40" />
 </a>
 
 <a href="https://codeforces.com/profile/Srabonti_deb" target="blank">
