@@ -27,16 +27,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" height="30" width="40" />
 </a>
 
+<!-- FIXED Medium (white icon) -->
 <a href="https://medium.com/@srabontideb23" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" width="40" style="filter: invert(1);" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="30" width="40" />
 </a>
 
+<!-- FIXED Beecrowd -->
 <a href="https://judge.beecrowd.com/en/profile/511677" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="30" width="40" />
 </a>
 
+<!-- FIXED Codeforces (colored icon) -->
 <a href="https://codeforces.com/profile/Srabonti_deb" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="30" width="40" style="filter: invert(1);" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30" width="40" />
 </a>
 
 </p>
