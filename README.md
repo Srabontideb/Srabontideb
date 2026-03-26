@@ -11,37 +11,34 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/srabonti-deb-69a7391bb/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
 <a href="https://www.kaggle.com/srabontideb" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
 <a href="https://scholar.google.com/citations?user=L8vd2UkAAAAJ&hl=en" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="30" width="40" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
 <a href="https://www.researchgate.net/profile/Srabonti-Deb?ev=hdr_xprf" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="30" width="40" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
 <a href="https://medium.com/@srabontideb23" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" width="40" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
-<!-- FIXED beecrowd -->
 <a href="https://judge.beecrowd.com/en/profile/511677" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
 <a href="https://codeforces.com/profile/Srabonti_deb" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" height="30" width="40" style="filter: invert(1); margin: 0 8px;" />
 </a>
 
 </p>
-
-
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srabontideb&show_icons=true&locale=en&layout=compact" alt="srabontideb" /></p>
