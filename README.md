@@ -38,9 +38,7 @@
 </a>
 
 <!-- FIXED Codeforces (colored icon) -->
-<a href="https://codeforces.com/profile/Srabonti_deb" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30" width="40" />
-</a>
+<a href="https://codeforces.com/profile/Srabonti_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srabonti_deb" height="30" width="40" style="fill: black;" /></a>
 
 </p>
 
