@@ -37,9 +37,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="30" width="40" />
 </a>
 
-<!-- FIXED Codeforces (colored icon) -->
-<a href="https://codeforces.com/profile/Srabonti_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srabonti_deb" height="30" width="40" style="fill: black;" /></a>
-
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srabontideb&show_icons=true&locale=en&layout=compact" alt="srabontideb" /></p>
