@@ -1,12 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Srabonti+Deb+👋;ML+Researcher+🔬;Deep+Learning+Enthusiast+🧠;Front-End+Developer+💻;IEEE+Published+Author+📄)
+# 👩‍💻 Srabonti Deb
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header" width="100%"/>
+### ML Researcher • Deep Learning Enthusiast • Front-End Developer
 
-### 🔬 ML Researcher | Deep Learning Enthusiast | Front-End Developer
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Research+Assistant+@+Young+Learners'+Research+Lab;IEEE+Published+at+ICCIT-2024;Working+on+Deepfake+Detection+%26+RAG+Systems;BSc+in+CSE+from+RUET+%7C+CGPA+3.43%2F4.00)](https://github.com/Srabontideb)
+🎓 BSc in CSE from RUET, Bangladesh &nbsp;|&nbsp; 📄 IEEE Published @ ICCIT-2024 &nbsp;|&nbsp; 🌐 [Portfolio](https://srabontideb.github.io/)
 
 </div>
 
@@ -16,7 +14,9 @@
 
 - 🔭 Currently working as a **Research Assistant** at Young Learners' Research Lab, Rajshahi
 - 🧠 Researching **Deepfake Detection**, **Explainable RAG**, and **Medical Image Classification**
-- 🎓 BSc in **Computer Science & Engineering** from RUET
+- 📄 **IEEE Published** — ICCIT-2024: *Advancing Deepfake Detection with Vision Transformers*
+- 🎓 BSc in **Computer Science & Engineering** from RUET (CGPA: 3.43/4.00)
+- 🌱 Mastering **TensorFlow**, **PyTorch**, **Hugging Face Transformers** & **LangChain**
 - 🌐 Portfolio → [srabontideb.github.io](https://srabontideb.github.io/)
 - 📂 All my projects → [github.com/Srabontideb](https://github.com/Srabontideb)
 - 📬 Reach me at **srabonti.deb.ruet@gmail.com**
@@ -96,6 +96,10 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=minimal&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</picture>
