@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👩‍💻 Srabonti Deb
+#  Srabonti Deb
 
 ### ML Researcher • Deep Learning Enthusiast • Front-End Developer
 
-🎓 BSc in CSE from RUET, Bangladesh &nbsp;|&nbsp;
+🎓 BSc in CSE from RUET, Bangladesh &nbsp;
 
 </div>
 
