@@ -90,12 +90,3 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=minimal&hide_border=true" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Srabontideb&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</picture>
