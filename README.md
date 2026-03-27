@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+### About Me
 
 I'm **Srabonti Deb**, an ML Researcher and Front-End Developer from Bangladesh. I graduated from **RUET** with a BSc in CSE and currently work as a **Research Assistant** at Young Learners' Research Lab — where I own the full research cycle: from identifying gaps in literature and designing solution pipelines, to implementing models, running ablation studies, and writing papers. My work on Vision Transformers for Deepfake Detection got published at **IEEE ICCIT-2024**. On the side, I build clean, responsive web interfaces too.
 
