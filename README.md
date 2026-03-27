@@ -4,7 +4,7 @@
 
 ### ML Researcher • Deep Learning Enthusiast • Front-End Developer
 
-🎓 BSc in CSE from RUET, Bangladesh &nbsp;|&nbsp; 📄 IEEE Published @ ICCIT-2024 &nbsp;|&nbsp; 🌐 [Portfolio](https://srabontideb.github.io/)
+🎓 BSc in CSE from RUET, Bangladesh &nbsp;|&nbsp;
 
 </div>
 
@@ -14,10 +14,6 @@
 
 - 🔭 Currently working as a **Research Assistant** at Young Learners' Research Lab, Rajshahi
 - 🧠 Researching **Deepfake Detection**, **Explainable RAG**, and **Medical Image Classification**
-- 📄 **IEEE Published** — ICCIT-2024: *Advancing Deepfake Detection with Vision Transformers*
-- 🎓 BSc in **Computer Science & Engineering** from RUET (CGPA: 3.43/4.00)
-- 🌱 Mastering **TensorFlow**, **PyTorch**, **Hugging Face Transformers** & **LangChain**
-- 🌐 Portfolio → [srabontideb.github.io](https://srabontideb.github.io/)
 - 📂 All my projects → [github.com/Srabontideb](https://github.com/Srabontideb)
 - 📬 Reach me at **srabonti.deb.ruet@gmail.com**
 
