@@ -1,12 +1,12 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Srabonti+Deb+👋;Deep+Learning+Enthusiast+🧠;Front-End+Developer+💻;ML+Researcher+🔬)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Srabonti+Deb+👋;ML+Researcher+🔬;Deep+Learning+Enthusiast+🧠;Front-End+Developer+💻;IEEE+Published+Author+📄)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header" width="100%"/>
 
-### 🧠 Passionate about Deep Learning & Front-End Development
+### 🔬 ML Researcher | Deep Learning Enthusiast | Front-End Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Exploring+Deep+Learning+models+%26+mechanisms;Mastering+TensorFlow+%26+PyTorch;Building+beautiful+front-end+experiences)](https://github.com/Srabontideb)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=A855F7&center=true&vCenter=true&width=700&lines=Research+Assistant+@+Young+Learners'+Research+Lab;IEEE+Published+at+ICCIT-2024;Working+on+Deepfake+Detection+%26+RAG+Systems;BSc+in+CSE+from+RUET+%7C+CGPA+3.43%2F4.00)](https://github.com/Srabontideb)
 
 </div>
 
@@ -14,8 +14,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently diving into **Deep Learning models & mechanisms**
-- 🌱 Mastering open-source ML libraries like **TensorFlow** and **PyTorch**
+- 🔭 Currently working as a **Research Assistant** at Young Learners' Research Lab, Rajshahi
+- 🧠 Researching **Deepfake Detection**, **Explainable RAG**, and **Medical Image Classification**
+- 📄 **IEEE Published** — ICCIT-2024: *Advancing Deepfake Detection with Vision Transformers*
+- 🎓 BSc in **Computer Science & Engineering** from RUET (CGPA: 3.43/4.00)
+- 🌱 Mastering **TensorFlow**, **PyTorch**, **Hugging Face Transformers** & **LangChain**
+- 🌐 Portfolio → [srabontideb.github.io](https://srabontideb.github.io/)
 - 📂 All my projects → [github.com/Srabontideb](https://github.com/Srabontideb)
 - 📬 Reach me at **srabonti.deb.ruet@gmail.com**
 
@@ -31,6 +35,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Srabonti-Deb?ev=hdr_xprf)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srabontideb23)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-brightgreen?style=for-the-badge)](https://judge.beecrowd.com/en/profile/511677)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A855F7.svg?style=for-the-badge&logo=github&logoColor=white)](https://srabontideb.github.io/)
 
 </div>
 
@@ -59,15 +64,33 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+</picture>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=default&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=default&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117" />
+</picture>
 
 </div>
 
