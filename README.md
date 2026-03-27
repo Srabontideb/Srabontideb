@@ -7,6 +7,7 @@
 🎓 BSc in CSE from RUET, Bangladesh &nbsp;
 
 </div>
+
 ---
 
 ##  About Me
