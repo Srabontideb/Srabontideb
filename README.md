@@ -7,16 +7,11 @@
 🎓 BSc in CSE from RUET, Bangladesh &nbsp;
 
 </div>
-
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm a Computer Science & Engineering graduate from **Rajshahi University of Engineering & Technology (RUET)**, Bangladesh, with a passion for pushing the boundaries of deep learning and AI research. Currently, I work as a **Research Assistant** at Young Learners' Research Lab, where I tackle real-world challenges in areas like **Deepfake Detection**, **Explainable Retrieval-Augmented Generation (RAG)**, and **Gastrointestinal Disease Classification**.
-
-My research journey led me to publish at the **27th IEEE ICCIT-2024**, where I presented work on integrating Time Series Processing with Vision Transformers for deepfake detection — a problem I find both technically fascinating and socially important. Alongside research, I have hands-on industry experience as a **Junior UI Developer**, having built production-ready frontend solutions using React, TypeScript, and Tailwind CSS.
-
-I love sitting at the intersection of **research and engineering** — whether that's designing deep learning pipelines, building intelligent chatbots with LangChain & Hugging Face, or crafting clean and responsive web interfaces. When I'm not coding, I'm writing about my learnings on [Medium](https://medium.com/@srabontideb23)
+I'm **Srabonti Deb**, an ML Researcher and Front-End Developer from Bangladesh. I graduated from **RUET** with a BSc in CSE and currently work as a **Research Assistant** at Young Learners' Research Lab, where I work on Deepfake Detection, Explainable RAG systems, and Medical Image Classification. My research on Vision Transformers got published at **IEEE ICCIT-2024** — and I also build clean, responsive web interfaces on the side. I like solving problems that actually matter.
 
 > *"Research is what I'm doing when I don't know what I'm doing."* — Wernher von Braun
 
