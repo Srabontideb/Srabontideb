@@ -31,12 +31,12 @@
 
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Srabontideb&show_icons=true&locale=en&layout=compact" alt="Srabontideb" />
+  <img src="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&show_icons=true&locale=en&layout=compact" alt="Srabontideb" />
 </p>
 
 <!-- GitHub Stats + Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srabontideb&show_icons=true&locale=en&count_private=true" alt="Srabontideb"/>
+  <img src="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&locale=en&count_private=true" alt="Srabontideb"/>
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=Srabontideb" alt="Srabontideb" />
 </p>
