@@ -2,7 +2,7 @@
 
 #  Srabonti Deb
 
-### ML Researcher • Deep Learning Enthusiast • Front-End Developer
+### ML Researcher • Deep Learning Enthusiast • Web Developer
 
 🎓 BSc in CSE from RUET, Bangladesh &nbsp;
 
