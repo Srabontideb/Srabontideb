@@ -4,7 +4,7 @@
 
 ### ML Researcher • Deep Learning Enthusiast • Web Developer
 
-🎓 BSc in CSE from RUET, Bangladesh &nbsp;
+🎓 BSc in CSE from RUET, Bangladesh | 🎓 Master's student at UofA;
 
 </div>
 
@@ -12,9 +12,7 @@
 
 ### About Me
 
-I'm **Srabonti Deb**, an ML Researcher and Front-End Developer from Bangladesh. I graduated from **RUET** with a BSc in CSE and currently work as a **Research Assistant** at Young Learners' Research Lab — where I own the full research cycle: from identifying gaps in literature and designing solution pipelines, to implementing models, running ablation studies, and writing papers. On the side, I build clean, responsive web interfaces too.
-
-> 💼 Open to Research Collaborations
+I'm **Srabonti Deb**, an ML Researcher and Front-End Developer from Bangladesh. I graduated from **RUET** with a BSc in CSE and am currently pursuing my **Master's at UofA**. I also worked as a **Research Assistant** at Young Learners' Research Lab — where I own the full research cycle: from identifying gaps in literature and designing solution pipelines, to implementing models, running ablation studies, and writing papers. On the side, I build clean, responsive web interfaces too.
 
 
 ---
