@@ -58,26 +58,6 @@ I'm **Srabonti Deb**, an ML Researcher and Front-End Developer from Bangladesh. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-two-ecru-24.vercel.app/api?username=Srabontideb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=default&hide_border=true" />
-  <img height="180" src="https://github-readme-stats-two-ecru-24.vercel.app/api/top-langs?username=Srabontideb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
     srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117" />
   <source media="(prefers-color-scheme: light)"
     srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=default&hide_border=true" />
