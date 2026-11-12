@@ -58,13 +58,14 @@ I'm **Srabonti Deb**, an ML Researcher and Front-End Developer from Bangladesh. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117&timezone=Edmonton&v=3" />
+    srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117&timezone=America/Edmonton&v=3" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=default&hide_border=true&timezone=Edmonton&v=3" />
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117&timezone=Edmonton&v=3" />
+    srcset="https://streak-stats.demolab.com/?user=Srabontideb&theme=default&hide_border=true&timezone=America/Edmonton&v=3" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=Srabontideb&theme=tokyonight&hide_border=true&background=0D1117&timezone=America/Edmonton&v=3" />
 </picture>
 
 </div>
 
+---
 
 
